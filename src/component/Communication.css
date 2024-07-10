@@ -1,0 +1,5 @@
+.App-bg {
+    background-color: rgba(246, 247, 248, 0.5);
+    flex: 1;
+    min-height: 100vh;
+  }
